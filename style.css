@@ -1,0 +1,138 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    color:#828282;
+    margin:0;
+   
+}
+
+.name-color{
+
+  color:  #FBA24F ;
+
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color:#575757;
+   
+}
+
+.flex{
+    display:flex;
+    padding-bottom: 10%;
+}
+
+.half-width-top{
+    width: 42%;
+    padding-left: 7%; 
+  
+}
+
+.half-width-top p{
+    padding-bottom: 8%;
+   
+}
+.half-width-top img{
+    width: 95%;
+    padding-top: 0;
+   
+   
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F ,#FF1E1E);
+    padding: 20px 40px;
+    border-radius: 100px;
+    color: white;
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+   
+}
+
+.middle-background{
+    background-image:url(images/shapes/7.png) ;
+     background-repeat: no-repeat;
+     padding-bottom: 0;
+}
+
+.half-width-middle{
+    width: 40%;
+    padding-left: 5%; 
+}
+
+.half-width-middle img{
+    width: 45%;
+    padding-top: 10%; 
+    padding-left: 25%; 
+}
+
+.half-width-middle p{
+    padding-bottom: 15%;
+   
+}
+
+.ptop{
+    padding-top:6% ;
+}
+.center{
+    padding-top: 5%;
+    text-align: center;
+    padding-left: 27%;
+    padding-right: 25%;
+    padding-bottom: 5%;
+
+}
+.flex-recipie{
+    display:flex;
+    padding-bottom: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.Recipie{
+    box-shadow: 5px 5px 5px 5px gray;
+    padding:2% 2% 0 2% ;
+     width: 25%;
+     border-radius: 40px;
+     margin-left: 4%;
+     
+}
+
+.Recipie img{
+    width: 100%;
+    border-radius: 20px;
+     height: 50%;
+    
+}
+.social{
+   width: 25%;
+   margin-left: 6%;
+   text-align: center;
+   padding-top: 0%;
+
+}
+
+
+.box-shadow{
+
+  box-shadow: 2px 2px 2px 2px gray;
+  margin-left: 13%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  padding-bottom: 3%;
+  border-radius: 20px;
+    
+}
+.box-shadow h1{
+    font-size:45px;
+    font-weight:800;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 1%;
+    padding-bottom: 7%;
+
+}
+
+
